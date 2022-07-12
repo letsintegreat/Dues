@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769526432078",
+    "project_id": "dues-26617",
+    "storage_bucket": "dues-26617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769526432078:android:2681df916a4232eb75de1f",
+        "android_client_info": {
+          "package_name": "com.example.dues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769526432078-oo09qbl7kol5t0d8lup03f4tmuo3lqcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qkF8XKqVs282bRVGGDXkaFNoqQsmo1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769526432078-oo09qbl7kol5t0d8lup03f4tmuo3lqcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
