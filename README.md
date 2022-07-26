@@ -1,5 +1,7 @@
 # Dues
 
+**Tech Stack: Flutter (Dart), Firebase. Figma to design UI.**
+
 An android app to keep track of your dues with your friends. You can maintain a separate account book for each of your friends in the form of the amount given and the amount received. Any change in amount would reflect in both the accounts, your and your friend's. The Tech stack used is Flutter, Firebase Auth, and Firebase Firestore. The UI is made on Figma.
 
 The app will maintain the net amount you have to give and the net amount you will receive at all times across all of your friends. Along with that, it shows the amount you will give or receive from a friend individually.
